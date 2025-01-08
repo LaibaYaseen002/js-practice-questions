@@ -64,8 +64,3 @@ console.log("Total Students with Low Marks : ", studentWithLowMarrks);
 console.log("Average Marks of the Mike Students : ", avgMarkMike);
 console.log("Total Students have the name Kate : ", kateCount);
 console.log("Total Students  taught by Bob : ", bobStudents);
-
-const heaviestFruitInfo = {
-  name: heaviestFruit.name,
-  color: heaviestFruit.color,
-};

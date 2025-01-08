@@ -33,3 +33,8 @@ console.log("Unique fruits :", uniqueFruit);
 console.log("Average Weight of Fruits :", avgWeight);
 console.log("Lightest Weight of the Fruit : ", lightestFruit);
 console.log("Heaviest Fruit and color :");
+
+const heaviestFruitInfo = {
+  name: heaviestFruit.name,
+  color: heaviestFruit.color,
+};
